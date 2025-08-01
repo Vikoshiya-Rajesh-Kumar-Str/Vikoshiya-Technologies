@@ -11,7 +11,7 @@ import WebDevelopment from './pages/WebDevelopment.jsx'
 import QualityAssurance from './pages/QualityAssurance.jsx'
 import BlogPost from './pages/BlogPost.jsx'
 import Ecommerce from './pages/Ecommerce.jsx'
-// import UnderMaintenance from './pages/UnderMaintenance.jsx'
+import UnderMaintenance from './pages/UnderMaintenance.jsx'
 
 function App() {
   return (
