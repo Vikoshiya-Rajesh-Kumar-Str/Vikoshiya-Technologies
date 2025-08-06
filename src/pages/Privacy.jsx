@@ -172,7 +172,7 @@ const Privacy = () => {
                     <div>
                       <p className="text-gray-600">
                         <strong>Privacy Officer:</strong><br />
-                        Email: privacy@vikoshiya.com<br />
+                        Email: privacy@vikoshiyatechnologies.com<br />
                         Phone: +1 (234) 567-890
                       </p>
                     </div>
@@ -180,8 +180,8 @@ const Privacy = () => {
                       <p className="text-gray-600">
                         <strong>Mailing Address:</strong><br />
                         Vikoshiya Technologies<br />
-                        123 Main Street, Suite 400<br />
-                        Cityville, Country 12345
+                        4/786, Veeraperumal kovil street<br />
+                        Soolakkarai, Virudhunagar - 626 003
                       </p>
                     </div>
                   </div>

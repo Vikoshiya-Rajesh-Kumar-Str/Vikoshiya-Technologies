@@ -40,7 +40,7 @@ const About = () => {
                 At Vikoshiya Technologies, we're more than just an IT company — we're part of a journey that started back in 2012.
               </p>
               <p className="text-lg text-gray-600 mb-4 text-justify">
-                It all began in Singapore, where we laid our foundation in the electrical and instrumentation field. Over the years, we've expanded into media (2015) and infrastructure (2016), and now, in 2024, we've stepped into the world of technology with a new chapter based in Virudhunagar, India.
+                It all began in Singapore, where we laid our foundation in the electrical and instrumentation field. Over the years, we've expanded into media (2015) and infrastructure (2016), and now, in 2025, we've stepped into the world of technology with a new chapter based in Virudhunagar, India.
               </p>
               <p className="text-lg text-gray-600 mb-4 text-justify">
                 With over a decade of experience behind us, we understand what it takes to build something that lasts. Whether it's a circuit, a building, a brand, or a website — we believe in doing things with quality, care, and commitment.
@@ -94,7 +94,7 @@ const About = () => {
                 <div className="w-1/2 pr-8"></div>
                 <div className="w-4 h-4 bg-blue-600 rounded-full border-4 border-white shadow-lg hover:scale-125 hover:bg-blue-500 transition-all duration-300"></div>
                 <div className="w-1/2 pl-8">
-                  <h3 className="text-xl font-bold text-gray-900">2024</h3>
+                  <h3 className="text-xl font-bold text-gray-900">2025</h3>
                   <p className="text-gray-600">Launched technology division in Virudhunagar, India</p>
                 </div>
               </div>

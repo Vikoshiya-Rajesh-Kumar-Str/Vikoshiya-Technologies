@@ -117,15 +117,25 @@ const Home = () => {
               <div className="h-12 w-12 bg-blue-100 rounded-full flex items-center justify-center mb-4">
                 <i className="fas fa-laptop-code text-blue-600 text-xl"></i>
               </div>
+              <Link 
+                to="/web-development" 
+                className="text-blue-600 hover:text-blue-700 font-medium inline-flex items-center"
+              >
               <h3 className="text-xl font-semibold text-gray-900 mb-2">Web Development</h3>
+              </Link>
               <p className="text-gray-600 mb-4">
                 Custom websites and web applications built with modern technologies for optimal performance and user experience.
               </p>
+              <Link 
+                to="/web-development" 
+                className="text-blue-600 hover:text-blue-700 font-medium inline-flex items-center"
+              >
               <img 
                 src="https://storage.googleapis.com/workspace-0f70711f-8b4e-4d94-86f1-2a93ccde5887/image/dd1217ef-0fd1-4724-b058-ab7fbd3c7796.png"
                 alt="Developers coding a website with modern UI elements on screen"
                 className="w-full rounded-md mb-4"
               />
+              </Link>
               <Link 
                 to="/web-development" 
                 className="text-blue-600 hover:text-blue-700 font-medium inline-flex items-center"
@@ -139,15 +149,25 @@ const Home = () => {
               <div className="h-12 w-12 bg-blue-100 rounded-full flex items-center justify-center mb-4">
                 <i className="fas fa-check-double text-blue-600 text-xl"></i>
               </div>
+              <Link 
+                to="/web-development" 
+                className="text-blue-600 hover:text-blue-700 font-medium inline-flex items-center"
+              >
               <h3 className="text-xl font-semibold text-gray-900 mb-2">Quality Assurance</h3>
+              </Link>
               <p className="text-gray-600 mb-4">
                 Comprehensive testing services to ensure your applications meet the highest quality standards before launch.
               </p>
-              <img 
+              <Link 
+                to="/web-development" 
+                className="text-blue-600 hover:text-blue-700 font-medium inline-flex items-center"
+              >
+                <img 
                 src="https://storage.googleapis.com/workspace-0f70711f-8b4e-4d94-86f1-2a93ccde5887/image/d9b2b15d-dbe0-4356-8ff3-ccb6471aae1d.png"
                 alt="Quality assurance specialist testing application on multiple devices"
                 className="w-full rounded-md mb-4"
               />
+              </Link>
               <Link 
                 to="/quality-assurance" 
                 className="text-blue-600 hover:text-blue-700 font-medium inline-flex items-center"
@@ -161,15 +181,25 @@ const Home = () => {
               <div className="h-12 w-12 bg-blue-100 rounded-full flex items-center justify-center mb-4">
                 <i className="fas fa-shopping-cart text-blue-600 text-xl"></i>
               </div>
+              <Link 
+                to="/web-development" 
+                className="text-blue-600 hover:text-blue-700 font-medium inline-flex items-center"
+              >
               <h3 className="text-xl font-semibold text-gray-900 mb-2">Ecommerce Website Development</h3>
+              </Link>
               <p className="text-gray-600 mb-4">
                 Powerful, scalable, and secure ecommerce solutions tailored for your online business.
               </p>
+              <Link 
+                to="/web-development" 
+                className="text-blue-600 hover:text-blue-700 font-medium inline-flex items-center"
+              >
               <img 
                 src="https://images.unsplash.com/photo-1493020258366-be3ead1b3027?q=80&w=880&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
                 alt="Modern ecommerce workspace with laptop and shopping cart"
                 className="w-full rounded-md mb-4"
               />
+              </Link>
               <Link 
                 to="/ecommerce" 
                 className="text-blue-600 hover:text-blue-700 font-medium inline-flex items-center"

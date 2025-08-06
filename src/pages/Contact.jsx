@@ -82,7 +82,7 @@ const Contact = () => {
                 <svg fill="none" stroke="currentColor" strokeWidth="2" viewBox="0 0 24 24" className="w-6 h-6 text-blue-600">
                   <path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zm0 9.5A2.5 2.5 0 1 1 12 6a2.5 2.5 0 0 1 0 5.5z"/>
                 </svg>
-                123 Main Street, Suite 400, Cityville, Country
+                4/786, Veeraperumal kovil street, Soolakkarai, Virudhunagar.
               </div>
               <iframe 
                 className="w-full h-48 rounded-lg shadow-lg"
@@ -105,7 +105,7 @@ const Contact = () => {
                   <path d="M22 6l-10 7L2 6"/>
                 </svg>
                 <a href="mailto:info@vikoshiya.com" className="text-gray-700 hover:text-blue-600 transition-colors">
-                  info@vikoshiya.com
+                  info@vikoshiyatechnologies.com
                 </a>
               </div>
               <div className="flex gap-5 mt-4">

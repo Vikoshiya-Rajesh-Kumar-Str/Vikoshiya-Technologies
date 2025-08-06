@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import { Link, useLocation, useNavigate } from 'react-router-dom'
-import vLogo from '../assets/v.png'
+import vLogo from '../assets/vv.png'
 
 const Navigation = () => {
   const [isMenuOpen, setIsMenuOpen] = useState(false)
@@ -50,7 +50,7 @@ const Navigation = () => {
               <img 
                 src={vLogo}
                 alt="Vikoshiya Technologies logo"
-                className="h-48 w-auto hover:opacity-80 transition-opacity duration-300" 
+                className="h-12 w-auto hover:opacity-80 transition-opacity duration-300" 
               />
             </a>
           </div>

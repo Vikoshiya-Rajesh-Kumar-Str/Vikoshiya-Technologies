@@ -21,11 +21,11 @@ const Terms = () => {
               <h2 className="text-3xl font-bold text-gray-900 mb-4">Terms of Service</h2>
               <p className="text-gray-600 mb-4">Last updated: January 2024</p>
               <p className="text-gray-600">
-                Welcome to Vikoshiya Technologies. These Terms of Service govern your use of our web development, 
+                Welcome to Vikoshiya Technologies. These Terms of Service govern your use of our web development,
                 quality assurance, and IT consulting services. By engaging our services, you agree to these terms.
               </p>
             </div>
-            
+
             <div className="space-y-8">
               <div>
                 <h3 className="text-2xl font-bold text-gray-900 mb-4 flex items-center">
@@ -33,11 +33,11 @@ const Terms = () => {
                   Acceptance of Terms
                 </h3>
                 <p className="text-gray-600 mb-4">
-                  By accessing and using the services provided by Vikoshiya Technologies, you accept and agree to be bound by 
+                  By accessing and using the services provided by Vikoshiya Technologies, you accept and agree to be bound by
                   these terms and conditions. If you do not agree to these terms, please do not use our services.
                 </p>
               </div>
-              
+
               <div>
                 <h3 className="text-2xl font-bold text-gray-900 mb-4 flex items-center">
                   <i className="fas fa-laptop-code text-blue-600 mr-3"></i>
@@ -56,7 +56,7 @@ const Terms = () => {
                   We reserve the right to modify, suspend, or discontinue any service with reasonable notice.
                 </p>
               </div>
-              
+
               <div>
                 <h3 className="text-2xl font-bold text-gray-900 mb-4 flex items-center">
                   <i className="fas fa-file-contract text-blue-600 mr-3"></i>
@@ -76,7 +76,7 @@ const Terms = () => {
                   Late payments may result in project suspension and additional fees. All fees are non-refundable unless otherwise specified.
                 </p>
               </div>
-              
+
               <div>
                 <h3 className="text-2xl font-bold text-gray-900 mb-4 flex items-center">
                   <i className="fas fa-copyright text-blue-600 mr-3"></i>
@@ -92,7 +92,7 @@ const Terms = () => {
                   <li><strong>Portfolio Rights:</strong> We may showcase completed work in our portfolio</li>
                 </ul>
               </div>
-              
+
               <div>
                 <h3 className="text-2xl font-bold text-gray-900 mb-4 flex items-center">
                   <i className="fas fa-user-secret text-blue-600 mr-3"></i>
@@ -108,7 +108,7 @@ const Terms = () => {
                   <li>Secure data handling and disposal procedures are followed</li>
                 </ul>
               </div>
-              
+
               <div>
                 <h3 className="text-2xl font-bold text-gray-900 mb-4 flex items-center">
                   <i className="fas fa-exclamation-triangle text-blue-600 mr-3"></i>
@@ -124,7 +124,7 @@ const Terms = () => {
                   <li>Force majeure events are excluded from liability</li>
                 </ul>
               </div>
-              
+
               <div>
                 <h3 className="text-2xl font-bold text-gray-900 mb-4 flex items-center">
                   <i className="fas fa-shield-alt text-blue-600 mr-3"></i>
@@ -140,7 +140,7 @@ const Terms = () => {
                   <li><strong>Support:</strong> 30-day warranty period for bug fixes and adjustments</li>
                 </ul>
               </div>
-              
+
               <div>
                 <h3 className="text-2xl font-bold text-gray-900 mb-4 flex items-center">
                   <i className="fas fa-handshake text-blue-600 mr-3"></i>
@@ -157,7 +157,7 @@ const Terms = () => {
                   <li>Comply with applicable laws and regulations</li>
                 </ul>
               </div>
-              
+
               <div>
                 <h3 className="text-2xl font-bold text-gray-900 mb-4 flex items-center">
                   <i className="fas fa-times-circle text-blue-600 mr-3"></i>
@@ -173,7 +173,7 @@ const Terms = () => {
                   <li>Return of client materials and data</li>
                 </ul>
               </div>
-              
+
               <div>
                 <h3 className="text-2xl font-bold text-gray-900 mb-4 flex items-center">
                   <i className="fas fa-balance-scale text-blue-600 mr-3"></i>
@@ -189,7 +189,7 @@ const Terms = () => {
                   <li>Court proceedings only as a last resort</li>
                 </ul>
               </div>
-              
+
               <div>
                 <h3 className="text-2xl font-bold text-gray-900 mb-4 flex items-center">
                   <i className="fas fa-edit text-blue-600 mr-3"></i>
@@ -205,7 +205,7 @@ const Terms = () => {
                   <li>Subject to client acceptance for ongoing projects</li>
                 </ul>
               </div>
-              
+
               <div>
                 <h3 className="text-2xl font-bold text-gray-900 mb-4 flex items-center">
                   <i className="fas fa-envelope text-blue-600 mr-3"></i>
@@ -219,7 +219,7 @@ const Terms = () => {
                     <div>
                       <p className="text-gray-600">
                         <strong>Legal Department:</strong><br />
-                        Email: legal@vikoshiya.com<br />
+                        Email: legal@vikoshiyatechnologies.com<br />
                         Phone: +1 (234) 567-890
                       </p>
                     </div>
@@ -227,8 +227,8 @@ const Terms = () => {
                       <p className="text-gray-600">
                         <strong>Mailing Address:</strong><br />
                         Vikoshiya Technologies<br />
-                        123 Main Street, Suite 400<br />
-                        Cityville, Country 12345
+                        4/786, Veeraperumal kovil street<br />
+                        Soolakkarai, Virudhunagar - 626 003
                       </p>
                     </div>
                   </div>
