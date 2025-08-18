@@ -23,7 +23,7 @@ export default function UnderMaintenance() {
           </svg>
         </div>
         <p className="mt-6 text-sm text-gray-500">
-          If this persists, contact us at <span className="font-semibold">info@vikoshiya.com</span>
+          If this persists, contact us at <span className="font-semibold">info@vikoshiyatechnologies.com</span>
         </p>
       </div>
     </div>
